@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPath": "/products/3"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "remote.server.response.products.findOne.3.200.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
